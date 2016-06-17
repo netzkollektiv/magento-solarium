@@ -200,7 +200,7 @@
                 <host>localhost</host>
                 <port>8983</port>
                 <path>/solr</path>
-                <core>collection1</core>
+                <core>magento</core>
                 <timeout>3600</timeout>
                 <search_timeout>5</search_timeout>
                 <requires_authentication>0</requires_authentication>
