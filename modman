@@ -18,7 +18,7 @@ js/solarium/                                                                js/s
 
 # 5--- The Solarium Library, by Bas de Nooijer
 # Magento PHP Library file     - Recursive Dir - Solarium
-lib/Solarium/                                                               lib/Solarium/
+solarium/library/Solarium                                                   lib/Solarium/
 
 # 6--- The EventDispatcher component from the Symfony framework
 # Magento PHP Library file     - Recursive Dir - Symfony/Component/EventDispatcher
